@@ -1,0 +1,15 @@
+DecSta
+DecSta
+Exp
+AssSta
+BoolExp
+BoolExp
+Exp
+AssSta
+Exp
+AssSta
+IfSta
+Exp
+AssSta
+WhileSta
+Program

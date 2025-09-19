@@ -1,0 +1,10 @@
+main(){
+    int a,b;
+    float c,d;
+    a=1;
+    while(a<b){
+        if(c<d) c=c+d;
+        else    d=c;
+        a=a+2;
+    }
+}
